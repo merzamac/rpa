@@ -55,7 +55,7 @@ El proceso emula de extremo a extremo la interacción del usuario con el sistema
 
 El script inicia una instancia controlada de Microsoft Excel, validando que el proceso se ejecute correctamente en el sistema.
 
-![Apertura e inicialización de la app Excel](img/startapp.png.jpg)
+![Apertura e inicialización de la app Excel](img/startapp.png)
 
 ### 5.2. Importación Dinámica de Archivos
 
@@ -69,7 +69,7 @@ Con el documento base cargado, el sistema interactúa con la interfaz de segurid
 
 ![Formulario de autenticación / Login de usuario](img/login.png)
 
-**URL del Servicio:** `[https://practicetestautomation.com/practice-test-login/]`
+**URL del Servicio:** [Login](https://practicetestautomation.com/practice-test-login/)
 
 ### 5.4. Captura y Vinculación del Manejador de Ventana
 
