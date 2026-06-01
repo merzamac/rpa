@@ -48,7 +48,7 @@ El proceso emula de extremo a extremo la interacción del usuario con el sistema
 
 El script inicia una instancia controlada de Microsoft Excel, validando que el proceso se ejecute correctamente en el sistema.
 
-![Apertura e inicialización de la app Excel](img/startapp.png.jpg)
+![Apertura e inicialización de la app Excel](img/startapp.png)
 
 ### 5.2. Importación Dinámica de Archivos
 
