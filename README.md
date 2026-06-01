@@ -33,8 +33,15 @@ pipx install pdm
 
 Una vez preparado el sistema base, configure el repositorio local:
 
-1. Acceda al directorio raíz donde se ha copiado o clonado este repositorio.
-2. Ejecute el siguiente comando para inicializar el entorno virtual e instalar las dependencias del proyecto de forma automatizada:
+1. 1. Realice un **fork** del repositorio original a su cuenta personal o al espacio de trabajo correspondiente.
+2. Clone el repositorio desde su fork al entorno local:
+
+   ```bash
+   git clone https://github.com/su-usuario/rpa.git
+
+   ```
+
+3. Ejecute el siguiente comando para inicializar el entorno virtual e instalar las dependencias del proyecto de forma automatizada:
 
 ```bash
 pdm install
