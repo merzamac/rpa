@@ -33,7 +33,7 @@ pipx install pdm
 
 Una vez preparado el sistema base, configure el repositorio local:
 
-1. 1. Realice un **fork** del repositorio original a su cuenta personal o al espacio de trabajo correspondiente.
+1. Realice un **fork** del repositorio original a su cuenta personal o al espacio de trabajo correspondiente.
 2. Clone el repositorio desde su fork al entorno local:
 
    ```bash
